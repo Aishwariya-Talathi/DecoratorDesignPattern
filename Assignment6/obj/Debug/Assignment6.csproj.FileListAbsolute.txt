@@ -1,0 +1,9 @@
+c:\users\borol\documents\visual studio 2017\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+c:\users\borol\documents\visual studio 2017\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+c:\users\borol\documents\visual studio 2017\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+c:\users\borol\documents\visual studio 2017\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+c:\users\borol\documents\visual studio 2017\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.Form1.resources
+c:\users\borol\documents\visual studio 2017\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+c:\users\borol\documents\visual studio 2017\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.Cache
+c:\users\borol\documents\visual studio 2017\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+c:\users\borol\documents\visual studio 2017\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.pdb

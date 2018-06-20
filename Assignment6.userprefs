@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D1CF0AF8-39FD-47D4-8684-814C098DBA9D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment6/DecoratorClass.cs">
+    <Files>
+      <File FileName="Assignment6/Form1.cs" Line="284" Column="1" />
+      <File FileName="Assignment6/SpareTire.cs" Line="8" Column="2" />
+      <File FileName="Assignment6/DecoratorClass.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assignment6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
